@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36568a463610b004cd9fcd953a58944d9ad97135bbae318576fd4876b1afc75d
-size 641
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - RagBones
+  - Civilian
+  - AnimBones
+  - SkinBones
+  - Bird
+  - Wood
+  - Stone
+  - Door
+  - PointOfInterest
+  - Metal
+  - PointForDespawn
+  - PointForEnemySpawn
+  - Target
+  - LowerBody
+  - UpperBody
+  - projectile
+  - PointForIdle
+  - Terrain
+  - Light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
