@@ -13415,7 +13415,7 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d48c333a5730cd440ba2092037d83b66, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 2164040, guid: d48c333a5730cd440ba2092037d83b66, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -13527,7 +13527,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Stop
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d48c333a5730cd440ba2092037d83b66, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 2164040, guid: d48c333a5730cd440ba2092037d83b66, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -13606,7 +13606,7 @@ MonoBehaviour:
   m_spriteAnimator: {fileID: 0}
   m_isInputParsingRequired: 1
   m_inputSource: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_subTextObjects:
   - {fileID: 0}
   - {fileID: 0}
@@ -14017,7 +14017,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e38c7b40dd3ef4640a0492ac3ebc9276, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LaserThickness: 0
 --- !u!114 &114594215358984664
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -14039,7 +14038,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Restart
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d48c333a5730cd440ba2092037d83b66, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 2164040, guid: d48c333a5730cd440ba2092037d83b66, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -14259,8 +14258,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88e48adb904b1c94f8bc4a94e0c6813f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OpenTrigger: 0
   IsOpen: 0
   CanOpen: 1
+  IngameMenu: {fileID: 0}
+  IngameMenuTextDetail: {fileID: 0}
 --- !u!114 &114792214528361040
 MonoBehaviour:
   m_ObjectHideFlags: 1
